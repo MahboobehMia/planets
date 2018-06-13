@@ -1,5 +1,7 @@
-Hello this is Jo!
 
+
+Hello this is Jo!
+Now I am adding a conflict ...
 cold and dry but I like it
 
 I want to add more lines
